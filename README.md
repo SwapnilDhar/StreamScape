@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Deployed at :- https://zippy-arithmetic-a23e39.netlify.app
+
 ## Available Scripts
 
 In the project directory, you can run:
